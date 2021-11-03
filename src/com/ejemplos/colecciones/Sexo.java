@@ -1,0 +1,6 @@
+package com.ejemplos.colecciones;
+
+public enum Sexo {
+	HOMBRE, MUJER, NOBINARIE, AGENERO, FLUIDO, QUEER, TRANSGENERO, TRANSEXUAL, NOINCLUIDO, PREFIERONODECIR;	
+	
+}
